@@ -1,6 +1,6 @@
 ---
 AWSTemplateFormatVersion: "2010-09-09"
-Description: Stack Monitoring DevOps Wilton 
+Description: Stack Monitoring DevOps Ítalo
 
 Parameters: 
   TagsProject: 
